@@ -1,4 +1,12 @@
-![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverBalfour&count_private=true&theme=dark&hide_rank=true&hide_title=true&hide_border=true)
+Hi, I'm Oliver. I'm studying mathematics and computer science at the Australian National University and working as a software developer at [Liquid Instruments](https://www.liquidinstruments.com/).
+
+I love functional programming, machine learning, computer graphics, UI development (web/desktop/mobile), abstract algebra, cycling, and modular origami.
+
+I have a [blog](https://oliverbalfour.github.io/) and lots of open source projects below.
+
+![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverBalfour&count_private=true&show_icons=true&theme=github_dark&hide_border=true)
+
+You can find my resume [here](https://oliverbalfour.github.io/Resume/resume-oliver-balfour.pdf).
 
 <!--
 **OliverBalfour/OliverBalfour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
