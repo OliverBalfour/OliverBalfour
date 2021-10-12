@@ -1,4 +1,4 @@
-![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverBalfour&count_private=true&theme=onedark)
+![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverBalfour&count_private=true&theme=cobalt&hide_rank=true)
 
 
 <!--
