@@ -1,4 +1,5 @@
-![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverBalfour)
+![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverBalfour&count_private=true&theme=onedark)
+
 
 <!--
 **OliverBalfour/OliverBalfour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
