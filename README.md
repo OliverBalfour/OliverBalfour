@@ -1,24 +1,11 @@
-Hi, I'm Oliver. I'm studying mathematics and computer science at the Australian National University and working as a software developer at [Liquid Instruments](https://www.liquidinstruments.com/).
+Hi, I'm Oliver!
 
-I love functional programming, machine learning, computer graphics, UI development (web/desktop/mobile), abstract algebra, cycling, and modular origami.
+I'm a computer science and mathematics student interested in machine learning safety, software engineering and effective altruism. I'm currently based in Australia.
 
-I have a [blog](https://oliverbalfour.github.io/) and lots of open source projects below.
+I've built everything from [control panels for rocket engine testing rigs](https://github.com/ANU-Rocketry/control-panel) to [an algorithm for diagnosing eye disease](https://github.com/OliverBalfour/DiabeticRetinopathy).
+
+I'm excited to be interning at [Jane Street](https://www.janestreet.com/) and attending the [ML Alignment Bootcamp](https://www.alignmentforum.org/posts/3ouxBRRzjxarTukMW/apply-to-the-second-iteration-of-the-ml-for-alignment) later this year. I currently work for [Liquid Instruments](https://www.liquidinstruments.com/), where I mainly build user interfaces for scientific instruments.
+
+Email: `(@) oliver.leo.balfour $ gmail . com`. Resume: [resume-oliver-balfour.pdf](https://oliverbalfour.github.io/Resume/resume-oliver-balfour.pdf)
 
 ![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverBalfour&count_private=true&show_icons=true&theme=github_dark&hide_border=true)
-
-You can find my resume [here](https://oliverbalfour.github.io/Resume/resume-oliver-balfour.pdf).
-
-<!--
-**OliverBalfour/OliverBalfour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
