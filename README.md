@@ -1,16 +1,12 @@
 Hi, I'm Oliver!
 
-I'm a Machine Learning Researcher at [Redwood Research](https://www.redwoodresearch.org/), where I build tools to help with language model interpretability research.
-
-I'm also a computer science and mathematics student studing at the Australian National University.
-
-I'm interested in machine learning safety, software engineering and effective altruism.
+I'm currently studying computer science and mathematics at the Australian National University.
 
 I've built everything from [control panels for rocket engine testing rigs](https://github.com/ANU-Rocketry/control-panel) to [an algorithm for diagnosing eye disease](https://github.com/OliverBalfour/DiabeticRetinopathy).
 
-I'll be interning at [Jane Street](https://www.janestreet.com/) at the end of the year.
+I've interned at [Jane Street](https://www.janestreet.com/), built language model interpretability tools at [Redwood Research](https://www.redwoodresearch.org/), and built user interfaces for scientific instruments at [Liquid Instruments](https://www.liquidinstruments.com/).
 
-I previously worked for [Liquid Instruments](https://www.liquidinstruments.com/), where I built user interfaces for scientific instruments.
+I'm interested in AI safety and software engineering. Feel free to reach out!
 
 Email: `(@) oliver.leo.balfour $ gmail . com`. Resume: [resume-oliver-balfour.pdf](https://oliverbalfour.github.io/Resume/resume-oliver-balfour.pdf)
 
