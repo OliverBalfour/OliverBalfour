@@ -10,4 +10,4 @@ I'm interested in AI safety and software engineering. Feel free to reach out!
 
 Email: `(@) oliver.leo.balfour $ gmail . com`. Resume: [resume-oliver-balfour.pdf](https://oliverbalfour.github.io/Resume/resume-oliver-balfour.pdf)
 
-![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverBalfour&count_private=true&show_icons=true&theme=github_dark&hide_border=true)
+![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverBalfour&count_private=true&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true)
